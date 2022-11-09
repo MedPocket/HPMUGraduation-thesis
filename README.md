@@ -1,2 +1,3 @@
-# HPMUGraduation-thesis
-HPMU graduation thesis in 2023 by Nhat Nguyen
+# HPMU Graduation Thesis in 2023
+
+Khóa luận tốt nghiệp 2023 của Long Nhật Nguyễn
