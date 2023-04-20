@@ -1,6 +1,6 @@
 # Thực trạng dinh dưỡng và một số yếu tố liên quan ở bệnh nhân lao phổi mới tại Bệnh viện Phổi Hải Phòng năm 2022
 
-Nguyễn Long Nhật, Nguyễn Thị Trang
+Nguyễn Long Nhật, Nguyễn Thị Trang.
 
 ## Tóm tắt
 
