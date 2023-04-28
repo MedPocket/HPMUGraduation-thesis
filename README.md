@@ -1,10 +1,10 @@
-# Thực trạng dinh dưỡng và một số yếu tố liên quan ở bệnh nhân lao phổi mới tại Bệnh viện Phổi Hải Phòng năm 2022
+# Thực trạng và một số yếu tố liên quan đến dinh dưỡng ở bệnh nhân lao phổi mới tại Bệnh viện Phổi Hải Phòng năm 2021-2022
 
-Nguyễn Long Nhật, Nguyễn Thị Trang.
+> SV Nguyễn Long Nhật, ThS.BS CKI. Nguyễn Thị Trang
 
-## Tóm tắt
+## Đặt vấn đề
 
-Luận văn tốt nghiện của Nguyễn Long Nhật tại Trường Đại học Y Dược Hải Phòng năm 2023.
+Chưa có nhiều nghiên cứu về tình trạng dinh dưỡng, mức độ nghiêm trọng của suy dinh dưỡng đối với bệnh nhân lao phổi mới. Câu hỏi được đặt ra là tình trạng dinh dưỡng và các yếu tố liên quan có ảnh hưởng như thế nào đối với bệnh nhân? Với mong muốn đánh giá tình trạng dinh dưỡng và các yếu tố liên quan của bệnh nhân lao phổi mới một cách khách quan, toàn diện để kịp thời có những giải pháp nhằm nâng cao hiệu quả điều trị và chăm sóc bệnh nhân lao phổi, đồng thời là nền tảng phát triển các nghiên cứu trong tương lai, tôi thực hiện đề tài **“Thực trạng và một số yếu tố liên quan đến dinh dưỡng ở bệnh nhân lao phổi mới tại Bệnh viện phổi Hải Phòng năm 2021-2022”**.
 
 ## Bản quyền
 
