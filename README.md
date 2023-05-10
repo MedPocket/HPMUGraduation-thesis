@@ -1,15 +1,17 @@
 # Thực trạng và một số yếu tố liên quan đến dinh dưỡng ở bệnh nhân lao phổi mới tại Bệnh viện Phổi Hải Phòng năm 2021-2022
 
-> SV Nguyễn Long Nhật, ThS.Bs. Nguyễn Thị Trang
+_SV Nguyễn Long Nhật, Ths.Bs. Nguyễn Thị Trang_
 
-## Đặt vấn đề
+## Tóm lượt
 
-Chưa có nhiều nghiên cứu về tình trạng dinh dưỡng, mức độ nghiêm trọng của suy dinh dưỡng đối với bệnh nhân lao phổi mới. Câu hỏi được đặt ra là tình trạng dinh dưỡng và các yếu tố liên quan có ảnh hưởng như thế nào đối với bệnh nhân? Với mong muốn đánh giá tình trạng dinh dưỡng và các yếu tố liên quan của bệnh nhân lao phổi mới một cách khách quan, toàn diện để kịp thời có những giải pháp nhằm nâng cao hiệu quả điều trị và chăm sóc bệnh nhân lao phổi, đồng thời là nền tảng phát triển các nghiên cứu trong tương lai, tôi thực hiện đề tài **“Thực trạng và một số yếu tố liên quan đến dinh dưỡng ở bệnh nhân lao phổi mới tại Bệnh viện phổi Hải Phòng năm 2021-2022”**.
+**Mục tiêu nghiên cứu:** Mô tả đặc điểm dinh dưỡng theo BMI và phương pháp đánh giá dinh dưỡng chủ quan SGA ở bệnh nhân lao phổi mới tại Bệnh viện Phổi Hải Phòng năm 2021-2022. Mô tả một số yếu tố liên quan đến tình trạng dinh dưỡng ở đối tượng nghiên cứu trên.
+
+**Phương pháp:** Nghiên cứu được thiết kế theo phương pháp mô tả cắt ngang hồi cứu trên 250 bệnh nhân tại Bệnh viện Phổi Hải Phòng năm 2021-2022.
+
+**Từ khóa:** Lao phổi, suy dinh dưỡng, tình trạng dinh dưỡng, BMI, SGA.
+
+###
 
 ## Bản quyền
 
 Bản quyền thuộc &copy; 2023 bởi Long Nhật Nguyễn.
-
-## Cảm ơn
-
-Cảm ơn Bệnh viện Phổi Hải Phòng và Trường Đại học Y Dược Hải Phòng đã tạo điều kiện cho tôi thực hiện nghiên cứu này.
