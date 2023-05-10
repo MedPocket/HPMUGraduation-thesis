@@ -2,7 +2,7 @@
 
 _SV Nguyễn Long Nhật, Ths.Bs. Nguyễn Thị Trang_
 
-## Tóm lượt
+## Tóm lược
 
 **Mục tiêu nghiên cứu:** Mô tả đặc điểm dinh dưỡng theo BMI và phương pháp đánh giá dinh dưỡng chủ quan SGA ở bệnh nhân lao phổi mới tại Bệnh viện Phổi Hải Phòng năm 2021-2022. Mô tả một số yếu tố liên quan đến tình trạng dinh dưỡng ở đối tượng nghiên cứu trên.
 
