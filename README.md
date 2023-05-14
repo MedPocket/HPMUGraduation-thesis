@@ -10,8 +10,8 @@ _SV. Nguyễn Long Nhật, Ths.Bs. Nguyễn Thị Trang_
 
 **Từ khóa:** Lao phổi, suy dinh dưỡng, tình trạng dinh dưỡng, BMI, SGA.
 
-###
-
 ## Bản quyền
+
+![team](team.jpg)
 
 Bản quyền thuộc &copy; 2023 bởi Long Nhật Nguyễn.
