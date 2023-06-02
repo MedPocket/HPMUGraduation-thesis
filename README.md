@@ -20,8 +20,5 @@ Bản quyền thuộc &copy; 2023 bởi Long Nhật Nguyễn.
 
 ## Hình ảnh
 
-<img src="./photos/221116_090909.webp" width=30%>
-<img src="./photos/230415_090909.webp" width=30%>
-<img src="./photos/230415_121214.webp" width=30%>
-<img src="./photos/230527_100830.webp" width=30%>
-<img src="./photos/230527_111909.webp" width=30%>
+<img src="./photos/221116_090909.webp" width=30%/><img src="./photos/230415_090909.webp" width=30%/><img src="./photos/230415_121214.webp" width=30%/><img src="./photos/230527_100830.webp" width=30%/><img src="./photos/230527_111909.webp" width=30%/>
+
